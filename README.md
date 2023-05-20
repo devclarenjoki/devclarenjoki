@@ -7,7 +7,7 @@ Stats | Languages
 
 <!-- [![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=devclarenjoki&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devclarenjoki&repo=react-SPA, hera,react-movie-manager)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devclarenjoki&repo=waridi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devclarenjoki)](https://github.com/anuraghazra/github-readme-stats) -->
