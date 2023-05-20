@@ -1,6 +1,9 @@
 ### Hi there, I'm Clare 👋
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devclarenjoki&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+Github | WakaTime
+:-:|:-:
+![](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) | ![](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devclarenjoki&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
