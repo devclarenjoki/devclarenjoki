@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Clare 👋
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devclarenjoki&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
